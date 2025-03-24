@@ -1,1 +1,1 @@
-Team Project Repository for Return Grads
+Team Project Repository for Returning Grads

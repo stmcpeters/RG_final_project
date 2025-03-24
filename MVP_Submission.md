@@ -2,6 +2,7 @@
 
 ### RG Team: Juliana, Mai, Steph, Thane, & Vanessa  
 
+[Link to MVP Proposal in Google Docs](https://docs.google.com/document/d/1yE0VdyAwFQRuKnpHO49pD-Xe37rHSYNHC2_ARbZC17U/edit?usp=sharing)
 
 ## 1\. One-sentence pitch of your application  
 A streamlined to-do list web app that’s engaging, customizable, and increases productivity—kinda like Notion, but with sassy notifications to keep you on track\!  

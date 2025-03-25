@@ -111,18 +111,18 @@ Each member rotates through a secondary role to gain exposure to all responsibil
 Each team member will receive a weekly performance score out of 10 for both primary and secondary roles, broken down as follows:  
 
 #### **Primary Role (7 points total):**  
-- **Task completion (3 points):** Completed assigned tickets within the sprint.  
-- **Code quality / work quality (2 points):** Clean, efficient, maintainable code or well-executed design/QA processes.  
-- **Collaboration & communication (2 points):** Regularly updated the team, participated in standups, supported others.  
+- [X] **Task completion (3 points):** Completed assigned tickets within the sprint.  
+- [X] **Code quality / work quality (2 points):** Clean, efficient, maintainable code or well-executed design/QA processes.  
+- [X] **Collaboration & communication (2 points):** Regularly updated the team, participated in standups, supported others.  
 
 #### **Secondary Role (3 points total):**  
-- **Engagement in learning (1 point):** Met with primary role lead, asked questions, took ownership of secondary tasks.  
-- **Contribution (1 point):** Completed the secondary role ticket or provided valuable support.  
-- **Reflection & feedback (1 point):** Submitted end-of-week insights or feedback to improve the project.  
+- [X] **Engagement in learning (1 point):** Met with primary role lead, asked questions, took ownership of secondary tasks.  
+- [X] **Contribution (1 point):** Completed the secondary role ticket or provided valuable support.  
+- [X] **Reflection & feedback (1 point):** Submitted end-of-week insights or feedback to improve the project.  
 
 Scores are compiled and reviewed during weekly retrospectives to identify strengths, areas for growth, and ensure accountability.  
 
-## *Weekly Assignment Timetable for  Secondary Role
+## Weekly Assignment Timetable for  Secondary Role
 
 ### Week 1 
 
